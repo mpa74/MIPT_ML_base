@@ -36,3 +36,5 @@ DeepLearning/Homework/utils/captioning_solver_pytorch.py
 DeepLearning/Homework/utils/coco_utils.py
 DeepLearning/Homework/utils/rnn_layers_pytorch.py
 DeepLearning/Seminars/06. Video/solution.ipynb
+
+*.egg*
